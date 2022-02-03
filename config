@@ -52,7 +52,7 @@ exec --no-startup-id mako
 #
 # exec --no-startup-id nm-applet
 
-exec --no-startup-id nextcloud
+exec --no-startup-id ~/AppImages/Nextcloud-3.4.0-x86_64.AppImage
 exec --no-startup-id keepassxc
 
 # redshift fork
