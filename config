@@ -85,9 +85,9 @@ bindsym $mod+d exec --no-startup-id rofi -show run
 #bindsym $mod+p exec bemenu-run
 
 # screenshots
-#bindsym Print exec ~/.config/sway/screenshot.sh full
-#bindsym Shift+Print exec ~/.config/sway/screenshot.sh rect
-#bindsym $alt+Print exec ~/.config/sway/screenshot.sh active_window
+bindsym Print exec ~/.config/sway/screenshot.sh full
+bindsym Shift+Print exec ~/.config/sway/screenshot.sh rect
+bindsym $alt+Print exec ~/.config/sway/screenshot.sh active_window
 
 # border and decoration toggle
 default_border pixel
